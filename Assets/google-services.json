@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "355854887084",
+    "firebase_url": "https://tapzombie-default-rtdb.firebaseio.com",
+    "project_id": "tapzombie",
+    "storage_bucket": "tapzombie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355854887084:android:83ce4dc1613209e54b5709",
+        "android_client_info": {
+          "package_name": "com.hoitstudio.tapzombie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355854887084-8ko1hb9mq6854f4ldnrq9kt9d3s9tfbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMV812Wgb-QrzvTl2_Qnsf7ncEcoPN1fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355854887084-8ko1hb9mq6854f4ldnrq9kt9d3s9tfbq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355854887084-omr1ikmkfqph7gr7e8eep0irknmuqdrj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hoitstudio.tapzombie.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

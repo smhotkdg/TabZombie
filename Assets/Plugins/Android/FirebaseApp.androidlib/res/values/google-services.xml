@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://tapzombie-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">355854887084</string>
+  <string name="google_storage_bucket" translatable="false">tapzombie.appspot.com</string>
+  <string name="project_id" translatable="false">tapzombie</string>
+  <string name="google_api_key" translatable="false">AIzaSyAMV812Wgb-QrzvTl2_Qnsf7ncEcoPN1fc</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAMV812Wgb-QrzvTl2_Qnsf7ncEcoPN1fc</string>
+  <string name="google_app_id" translatable="false">1:355854887084:android:83ce4dc1613209e54b5709</string>
+  <string name="default_web_client_id" translatable="false">355854887084-8ko1hb9mq6854f4ldnrq9kt9d3s9tfbq.apps.googleusercontent.com</string>
+</resources>
